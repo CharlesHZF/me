@@ -78,8 +78,11 @@
 4、熟练掌握web前端各主流技术。jquery、angurlarjs、html
 
 ##其他介绍：
+
 git：https://github.com/CharlesHZF
+
 linkedin：https://cn.linkedin.com/in/卓凡-贺-79780b111
+
 ##语言能力
 语言类型：英语
 
